@@ -11,8 +11,8 @@
 
 ## Project description
 
-### Dashboard project
+### Dashboard project with Anne
 
-### Map project
+### Map project with Stefanie
 
 ## Objectives
