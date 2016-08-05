@@ -12,14 +12,20 @@
 ## Project description
 
 ### Dashboard project with Anne
-The dashboard project is about having a web page summarizing metrics of the sequencing service. The sequencing service has different Illumina sequencers: HiSeq4000, HiSeq2500, MiSeq and NextSeq, for each run on a sequencer metrics are recorded and could be plotted.
-The first to look at is the yield.
+The dashboard project is about having a web page summarizing metrics of the sequencing service at the current time that evolves over time.
+
+The sequencing service runs different Illumina platforms: HiSeq4000, HiSeq2500, MiSeq and NextSeq. For each run on a sequencer, metrics are recorded into a database which is part of the LiMS system and could be extracted and then plotted.
+
+The first metrics to look at are yield and Q30. They should be displayed using box plots on a monthly basis.
 
 #### Interesting read and useful links
 - [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Python's Web Framework Benchmarks](http://klen.github.io/py-frameworks-bench/)
 - [EuroPython 2016](https://ep2016.europython.eu/en/)
 - [Bokeh, a Python interactive visualization library](http://bokeh.pydata.org/)
+
+#### Related projects
+- https://github.com/crukci-bioinformatics/claritypy-ngsreports
 
 ### Map project with Stefanie
 
