@@ -12,6 +12,14 @@
 ## Project description
 
 ### Dashboard project with Anne
+The dashboard project is about having a web page summarizing metrics of the sequencing service. The sequencing service has different Illumina sequencers: HiSeq4000, HiSeq2500, MiSeq and NextSeq, for each run on a sequencer metrics are recorded and could be plotted.
+The first to look at is the yield.
+
+#### Interesting read and useful links
+- [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Python's Web Framework Benchmarks](http://klen.github.io/py-frameworks-bench/)
+- [EuroPython 2016](https://ep2016.europython.eu/en/)
+- [Bokeh, a Python interactive visualization library](http://bokeh.pydata.org/)
 
 ### Map project with Stefanie
 
