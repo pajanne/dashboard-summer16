@@ -29,6 +29,6 @@ The first metrics to look at are yield and Q30. They should be displayed using b
 
 ### Map project with Stefanie
 
-Please see [Mapping technology resources in Cambridge](https://github.com/pajanne/dashboard-summer16/blob/master/Mapping-locations.md) page and associated [resource file](link)
+Please see [Mapping technology resources in Cambridge](https://github.com/pajanne/dashboard-summer16/blob/master/Mapping-locations.md) page and associated [resource file](https://github.com/pajanne/dashboard-summer16/blob/master/CUEquipmentDataGEO.csv)
 
 ## Objectives
