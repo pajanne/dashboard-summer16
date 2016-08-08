@@ -18,6 +18,11 @@ The sequencing service runs different Illumina platforms: HiSeq4000, HiSeq2500, 
 
 The first metrics to look at are yield and Q30. They should be displayed using box plots on a monthly basis.
 
+**Here are the metrics CRUKCI Genomics Core would like to see on the report:**
+1. Yield on Hiseq 4000, 2500 and Miseq (box plot with Millions of reads. It could also show the average yield which would be useful to know month by month). It could be one box plot generated every month, one for each platform.
+2. Quality - %Bases Q30 across the 3 platforms (box plot per platform)
+3. Turnaround time – median wait time across the platforms
+
 #### Interesting read and useful links
 - [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Python's Web Framework Benchmarks](http://klen.github.io/py-frameworks-bench/)
